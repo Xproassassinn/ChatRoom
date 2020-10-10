@@ -4,6 +4,9 @@ NodeJS based Text, Image, File Real Time Chat Room.
 
 [**You can see the live demo here**](http://chat.systenics.com)
 
+[![Run on Repl.it](https://repl.it/badge/github/Xproassassinn/ChatRoom)](https://repl.it/github/Xproassassinn/ChatRoom)
+
+
   - Provides chat messaging using socket.io
   - Allows file sharing of image,doc,pdf,excel,text and mp3.
   - Periodic file deletion to save server space.
